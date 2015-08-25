@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/magang/proyek/protected/views/tblServer/admin.php</file>
+            <file>file:/C:/xampp/htdocs/magang/proyek/protected/views/tblOutput/admin.php</file>
+            <file>file:/C:/xampp/htdocs/magang/proyek/protected/views/tblServer/_form.php</file>
+            <file>file:/C:/xampp/htdocs/magang/proyek/protected/controllers/TblDatabaseController.php</file>
+            <file>file:/C:/xampp/htdocs/magang/proyek/protected/controllers/TblServerController.php</file>
+            <file>file:/C:/xampp/htdocs/magang/proyek/protected/controllers/TblOutputController.php</file>
+            <file>file:/C:/xampp/htdocs/magang/proyek/protected/views/layouts/main.php</file>
+            <file>file:/C:/xampp/htdocs/magang/proyek/protected/views/tblServer/alertDatabase.php</file>
+            <file>file:/C:/xampp/htdocs/magang/proyek/protected/views/tblServer/Simpandatabase.php</file>
+            <file>file:/C:/xampp/htdocs/magang/proyek/protected/views/tblOutput/create.php</file>
+            <file>file:/C:/xampp/htdocs/magang/proyek/protected/views/tblServer/create.php</file>
+        </group>
+    </open-files>
+</project-private>
